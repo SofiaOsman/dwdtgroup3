@@ -85,14 +85,14 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">AS4</a>
-                    <a href="https://laracasts.com">Between</a>
-                    <a href="https://laravel-news.com">Sofhie</a>
-                    <a href="https://blog.laravel.com">And</a>
-                    <a href="https://nova.laravel.com">Annie</a>
-                    <a href="https://forge.laravel.com">Whee</a>
-                    <a href="https://vapor.laravel.com">wuuu</a>
-                    <a href="https://github.com/laravel/laravel">siap</a>
+                    <a href="https://laravel.com/docs">Assignment</a>
+                    <a href="https://laracasts.com">4</a>
+                    <a href="https://laravel-news.com">Between</a>
+                    <a href="https://blog.laravel.com">Sofhie</a>
+                    <a href="https://nova.laravel.com">Moon</a>
+                    <a href="https://forge.laravel.com">And</a>
+                    <a href="https://vapor.laravel.com">Annie</a>
+                    <a href="https://github.com/laravel/laravel">Who</a>
                 </div>
             </div>
         </div>
