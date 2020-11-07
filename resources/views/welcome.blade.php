@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Assignment</a>
+                    <a href="https://laravel.com/docs">Bahit</a>
                     <a href="https://laracasts.com">4</a>
                     <a href="https://laravel-news.com">Between</a>
                     <a href="https://blog.laravel.com">Sofhie</a>
